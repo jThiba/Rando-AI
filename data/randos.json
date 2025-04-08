@@ -1,0 +1,113 @@
+[
+    {
+      "name": "Mont Mézenc",
+      "region": "Haute-Loire",
+      "difficulty": "modéré",
+      "duration": "4h",
+      "distance": 9,
+      "denivele_m": 500,
+      "saison": "été, automne",
+      "description": "Le plus haut sommet du département avec une vue dégagée sur les Alpes et les Cévennes.",
+      "start": "Les Estables"
+    },
+    {
+      "name": "Les Crêtes du Sancy",
+      "region": "Puy-de-Dôme",
+      "difficulty": "difficile",
+      "duration": "6h",
+      "distance": 13,
+      "denivele_m": 800,
+      "saison": "été",
+      "description": "Parcours en altitude sur les crêtes du massif du Sancy, réservé aux randonneurs aguerris.",
+      "start": "Mont-Dore"
+    },
+    {
+      "name": "La Pierre Carrée",
+      "region": "Cantal",
+      "difficulty": "facile",
+      "duration": "1h15",
+      "distance": 4,
+      "denivele_m": 90,
+      "saison": "toute l'année",
+      "description": "Petite boucle autour d’un bloc volcanique mystérieux. Très accessible, parfaite pour les familles.",
+      "start": "Murat"
+    },
+    {
+      "name": "Cirque de Chamalière",
+      "region": "Cantal",
+      "difficulty": "modéré",
+      "duration": "3h30",
+      "distance": 8,
+      "denivele_m": 400,
+      "saison": "printemps, été",
+      "description": "Randonnée en boucle dans un ancien cirque glaciaire, avec passage près de cascades et d’estives.",
+      "start": "Albepierre-Bredons"
+    },
+    {
+      "name": "Forêt de Tronçais",
+      "region": "Allier",
+      "difficulty": "facile",
+      "duration": "2h",
+      "distance": 6,
+      "denivele_m": 60,
+      "saison": "printemps, été, automne",
+      "description": "Immersion dans une des plus belles hêtraies d'Europe, réputée pour ses chênes centenaires.",
+      "start": "Parking de la futaie Colbert"
+    },
+    {
+      "name": "Roche Tuilière et Sanadoire",
+      "region": "Auvergne",
+      "difficulty": "facile",
+      "duration": "1h30",
+      "distance": 4.5,
+      "denivele_m": 150,
+      "saison": "été, automne",
+      "description": "Boucle autour de deux pitons volcaniques emblématiques. Vue magnifique sur la vallée de la Fontsalade.",
+      "start": "Col de Guéry"
+    },
+    {
+      "name": "Gorges de la Monne",
+      "region": "Puy-de-Dôme",
+      "difficulty": "modéré",
+      "duration": "2h30",
+      "distance": 7,
+      "denivele_m": 320,
+      "saison": "été",
+      "description": "Randonnée sauvage le long de la rivière Monne, avec passages en forêt et rochers sculptés.",
+      "start": "Olloix"
+    },
+    {
+      "name": "Le Plomb du Cantal",
+      "region": "Cantal",
+      "difficulty": "difficile",
+      "duration": "5h",
+      "distance": 11,
+      "denivele_m": 750,
+      "saison": "été",
+      "description": "Plus haut sommet du Cantal avec vue sur les monts du Cantal. Ascension soutenue mais panoramique.",
+      "start": "Super-Lioran"
+    },
+    {
+      "name": "Cascade de la Beaume",
+      "region": "Haute-Loire",
+      "difficulty": "facile",
+      "duration": "1h",
+      "distance": 3,
+      "denivele_m": 80,
+      "saison": "printemps, été",
+      "description": "Jolie balade menant à une cascade encaissée. Sentier accessible et bien entretenu.",
+      "start": "Solignac-sur-Loire"
+    },
+    {
+      "name": "Tour du Lac Chambon",
+      "region": "Auvergne",
+      "difficulty": "facile",
+      "duration": "1h20",
+      "distance": 4.5,
+      "denivele_m": 60,
+      "saison": "été, automne",
+      "description": "Boucle familiale autour d’un lac volcanique, parfaite pour se rafraîchir l’été.",
+      "start": "Parking principal du lac"
+    }
+  ]
+  
